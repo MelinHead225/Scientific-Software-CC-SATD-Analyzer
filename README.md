@@ -1,4 +1,4 @@
-# Scientific-Software-SATD-Analyzer
+# Scientific-Software-CC-SATD-Analyzer
 
 This repository is an artifact from the research paper: 
 
